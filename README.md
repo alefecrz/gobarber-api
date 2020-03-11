@@ -39,9 +39,13 @@ Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 
 -  [Node.js][nodejs]
 -  [Express][express]
+-  [Nodemon][nodemon]
+-  [Sucrase][sucrase]
 
 
 Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.com.br/)
 
 [nodejs]: https://nodejs.org/
 [express]: https://nodejs.org/
+[nodemon]: https://nodemon.io/
+[sucrase]: https://sucrase.io/
