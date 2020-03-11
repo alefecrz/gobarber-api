@@ -1,6 +1,6 @@
-const express = require('express');
+import express from 'express';
 
-const routes = require('./router');
+import routes from './router';
 
 class App {
   constructor(){
@@ -16,4 +16,4 @@ class App {
   }
 }
 
-module.exports = new App().server;
+export default new App().server;
