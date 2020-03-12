@@ -9,20 +9,15 @@
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alefecrz/gobarber-api.svg">
-  
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4453e4a50cb46d5bde0511a28a74f0f)](https://app.codacy.com/manual/alefecrz/gobarber-api?utm_source=github.com&utm_medium=referral&utm_content=alefecrz/gobarber-api&utm_campaign=Badge_Grade_Dashboard)
-  
+  <a href="https://www.codacy.com/manual/alefecrz/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alefecrz/gobarber-api&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/dc91a79332014da0821fabba5304692f"/></a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefecrz/gobarber-api.svg">
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/alefecrz/gobarber-api.svg">
   <a href="https://github.com/alefecrz/gobarber-api/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alefecrz/gobarber-api.svg">
   </a>
-
   <a href="https://github.com/alefecrz/gobarber-api/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/alefecrz/gobarber-api.svg">
   </a>
-
   <img alt="GitHub" src="https://img.shields.io/github/license/alefecrz/gobarber-api.svg">
 </p>
 
