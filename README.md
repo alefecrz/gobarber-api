@@ -21,11 +21,6 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/alefecrz/gobarber-api.svg">
 </p>
 
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
 Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp)
 
 ## ⚙️ Ferramentas
@@ -37,6 +32,8 @@ Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 - [Docker][docker]
 - [ESLint][eslint]
 - [Prettier][prettier]
+- [Sequelize][sequelize]
+- [Postgres][postgres]
 
 Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.com.br/)
 
@@ -47,3 +44,5 @@ Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.c
 [docker]:https://www.docker.com/
 [eslint]:https://eslint.org/
 [prettier]:https://prettier.io/
+[sequelize]:https://sequelize.org/
+[postgres]:https://www.postgresql.org/
