@@ -41,10 +41,11 @@ Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 - [Prettier][prettier]
 
 Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.com.br/)
-[nodejs]: https://nodejs.org/
-[express]: https://nodejs.org/
-[nodemon]: https://nodemon.io/
-[sucrase]: https://sucrase.io/
-[docker]: https://www.docker.com/
-[eslint]: https://eslint.org/
-[prettier]: https://prettier.io/
+
+[nodejs]:https://nodejs.org/
+[express]:https://nodejs.org/
+[nodemon]:https://nodemon.io/
+[sucrase]:https://sucrase.io/
+[docker]:https://www.docker.com/
+[eslint]:https://eslint.org/
+[prettier]:https://prettier.io/
