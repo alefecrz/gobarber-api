@@ -32,17 +32,16 @@
 Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp)
 
 ## ⚙️ Ferramentas
-
--  [Node.js][nodejs]
--  [Express][express]
--  [Nodemon][nodemon]
--  [Sucrase][sucrase]
--  [Docker][docker]
--  [ESLint][eslint]
--  [Prettier][prettier]
-
+<ul>
+  <li>[Node.js][nodejs]</li>
+  <li>[Express][express]</li>
+  <li>[Nodemon][nodemon]</li>
+  <li>[Sucrase][sucrase]</li>
+  <li>[Docker][docker]</li>
+  <li>[ESLint][eslint]</li>
+  <li>[Prettier][prettier]</li>
+</ul>
 Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.com.br/)
-
 [nodejs]: https://nodejs.org/
 [express]: https://nodejs.org/
 [nodemon]: https://nodemon.io/
