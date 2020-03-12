@@ -32,6 +32,9 @@
 Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp)
 
 ## ⚙️ Ferramentas
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4453e4a50cb46d5bde0511a28a74f0f)](https://app.codacy.com/manual/alefecrz/gobarber-api?utm_source=github.com&utm_medium=referral&utm_content=alefecrz/gobarber-api&utm_campaign=Badge_Grade_Dashboard)
+
 - [Node.js][nodejs]
 - [Express][express]
 - [Nodemon][nodemon]
