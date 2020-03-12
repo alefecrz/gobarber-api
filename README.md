@@ -9,7 +9,9 @@
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alefecrz/gobarber-api.svg">
-
+  
+  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4453e4a50cb46d5bde0511a28a74f0f)](https://app.codacy.com/manual/alefecrz/gobarber-api?utm_source=github.com&utm_medium=referral&utm_content=alefecrz/gobarber-api&utm_campaign=Badge_Grade_Dashboard)
+  
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefecrz/gobarber-api.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/alefecrz/gobarber-api.svg">
@@ -32,8 +34,6 @@
 Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp)
 
 ## ⚙️ Ferramentas
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4453e4a50cb46d5bde0511a28a74f0f)](https://app.codacy.com/manual/alefecrz/gobarber-api?utm_source=github.com&utm_medium=referral&utm_content=alefecrz/gobarber-api&utm_campaign=Badge_Grade_Dashboard)
 
 - [Node.js][nodejs]
 - [Express][express]
