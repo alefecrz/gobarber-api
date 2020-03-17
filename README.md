@@ -34,6 +34,9 @@ Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 - [Prettier][prettier]
 - [Sequelize][sequelize]
 - [Postgres][postgres]
+- [Insominia][insominia]
+- [Bcryptjs][bcryptjs]
+- [JsonWebToken][jsonWebToken]
 
 Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.com.br/)
 
@@ -46,3 +49,6 @@ Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.c
 [prettier]:https://prettier.io/
 [sequelize]:https://sequelize.org/
 [postgres]:https://www.postgresql.org/
+[insominia]:https://insomnia.rest/
+[bcryptjs]:https://github.com/dcodeIO/bcrypt.js#readme
+[jsonWebToken]:https://jwt.io/
