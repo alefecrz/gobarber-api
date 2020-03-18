@@ -16,10 +16,9 @@ class User extends Model {
       }
     );
     this.addHook('beforeSave', async user => {
-      user.password_hash = await bcrypt.hash(user.password, 9);
+      if (user.password)
+        user.password_hash = await bcrypt.hash(user.password, 9);
     });
-
-    return this;
   }
 
   checkPassword(password) {
