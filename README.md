@@ -37,6 +37,7 @@ Este projeto foi desenvolvido no [RocketSeat GoStack Bootcamp](https://rocketsea
 - [Insominia][insominia]
 - [Bcryptjs][bcryptjs]
 - [JsonWebToken][jsonWebToken]
+- [Yup][yup]
 
 Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.com.br/)
 
@@ -52,3 +53,4 @@ Feito com ♥ por Álefe Cruz :wave: [Entre em contato!](https://www.alefecruz.c
 [insominia]:https://insomnia.rest/
 [bcryptjs]:https://github.com/dcodeIO/bcrypt.js#readme
 [jsonWebToken]:https://jwt.io/
+[yup]:https://github.com/jquense/yup
